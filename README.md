@@ -176,4 +176,32 @@ final_df.plot.bar(color="teal")
 ![5](https://user-images.githubusercontent.com/93427253/169953248-83452be0-8696-4bfd-b4ea-e68768e21372.png)
 ## Filter Methods:
 ### Variance Threshold:
+![6](https://user-images.githubusercontent.com/93427253/169953547-feffef87-405a-456d-830b-678ab11cb715.png)
+### Information Gain:
+![7](https://user-images.githubusercontent.com/93427253/169953685-347913d9-9add-4423-acee-4377b8b946a8.png)
+### SelectKBest Model:
+![8](https://user-images.githubusercontent.com/93427253/169953742-0e3aed23-3bfe-4787-8e9e-6c29e7d00167.png)
+### Correlation Coefficient:
+![9](https://user-images.githubusercontent.com/93427253/169953835-132aa4c7-be2a-4915-b750-4b847ae85b26.png)
+### Mean Absolute difference:
+![10](https://user-images.githubusercontent.com/93427253/169953926-2130461e-2c8a-412b-bd9e-fe51db739b96.png)
+### Chi Square Test:
+![11](https://user-images.githubusercontent.com/93427253/169954049-56eea74b-dfcd-4faa-9887-0da9612dfc8d.png)
+![12](https://user-images.githubusercontent.com/93427253/169954103-4d9b05ec-1b81-4bd4-85d3-368e4edd65cd.png)
+### SelectPercentile Method:
+![13](https://user-images.githubusercontent.com/93427253/169954150-a44ae78a-c0f5-437b-942c-3533d37bb004.png)
+## Wrapper Methods:
+### Forward Feature Selection:
+![14](https://user-images.githubusercontent.com/93427253/169954252-f3531c9e-fdf3-41c3-bfc1-9e318664a9e4.png)
+### Backward Feature Selection:
+![15](https://user-images.githubusercontent.com/93427253/169954323-de1d3d87-bdc7-4896-8826-e3e0312d28a5.png)
+### Bi-Directional Elimination: 
+![16](https://user-images.githubusercontent.com/93427253/169954374-6a1349a7-9fb4-4012-8016-00c9f0df7bd8.png)
+### Recursive Feature Selection:
+![17](https://user-images.githubusercontent.com/93427253/169954421-47f5d484-843a-4e9c-9d0c-8d3c53df8783.png)
+## Embedded Methods:
+### Random Forest Importance:
+![18](https://user-images.githubusercontent.com/93427253/169954484-9234e548-2adf-40dd-8a57-af61b0f95ec3.png)
 
+# RESULT:
+Hence various feature selection techniques are applied to the given data set successfully and saved the data into a file.
